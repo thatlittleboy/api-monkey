@@ -11,3 +11,9 @@ WIP...
 * auto-batching capabilities: to batch up large files into smaller batches
 * connecting to db for data storage
 * security: user auth (ignore for now)
+
+## Getting started
+```python
+# activate virtual env
+$ streamlit run app.py
+```
